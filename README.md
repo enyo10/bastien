@@ -1,3 +1,6 @@
+ dark    mode              |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![]<img width="180" alt="light_mode" src="https://user-images.githubusercontent.com/5827256/118118605-723aa880-b3ed-11eb-910d-df02c48c83de.png"> |  ![]<img width="180" alt="dark_mode" src="https://user-images.githubusercontent.com/5827256/118118716-94342b00-b3ed-11eb-93ed-a021d67d3235.png">
 <img width="180" alt="light_mode" src="https://user-images.githubusercontent.com/5827256/118118605-723aa880-b3ed-11eb-910d-df02c48c83de.png">|<img width="180" alt="dark_mode" src="https://user-images.githubusercontent.com/5827256/118118716-94342b00-b3ed-11eb-93ed-a021d67d3235.png">
 
 
