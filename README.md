@@ -1,6 +1,7 @@
 # bastien
 
 A new Flutter project.
+Bastien is an flutter application to search for film. The application shows by default the actuel films.
 
 ## Getting Started
 
