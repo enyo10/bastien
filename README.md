@@ -11,8 +11,9 @@ Light mode                 |  Dark mode
 :-------------------------:|:-------------------------:
 ![]<img width="180" alt="light_mode" src="https://user-images.githubusercontent.com/5827256/118118605-723aa880-b3ed-11eb-910d-df02c48c83de.png"> |  ![]<img width="180" alt="dark_mode" src="https://user-images.githubusercontent.com/5827256/118118716-94342b00-b3ed-11eb-93ed-a021d67d3235.png">
 
+Film details              | 
+:-------------------------:
 
-Film details
 <img width="180" alt="Screenshot_1620905385" src="https://user-images.githubusercontent.com/5827256/118120060-95665780-b3ef-11eb-813e-c50a683d00c6.png">
 
 
